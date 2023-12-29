@@ -1,0 +1,5 @@
+ds_gio_hang: [],
+tong_tien_tat_ca: 0,
+tong_so_luong: 0,
+tim_kiem: "",
+ds_tim_kiem: [],
